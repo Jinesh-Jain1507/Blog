@@ -1,0 +1,10 @@
+{% extends 'blog/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="col-sm-12">
+    <h3 class="text-white text-center my-5">{{post.title}}</h3>
+    <a href="{% url 'viewauthor' post.author.id %}"><h5>{{post.author}}</h5></a>
+    <p>{{post.desc}}</p>
+</div>
+{% endblock content %}
