@@ -25,7 +25,7 @@ This is a simple blog website built using Django, a Python web framework. The we
 
 2. **Navigate to the project directory**:
    ```bash
-   cd django-blog
+   cd blog
 
 3. **Create a virtual environment (optional but recommended)**:
    ```bash
