@@ -1,12 +1,11 @@
 # Django Blog Website
 
-This is a simple blog website built using Django, a Python web framework. The website allows users to create accounts, write blog posts, comment on posts, and manage their content.
+This is a simple blog website built using Django, a Python web framework. The website allows users to create accounts, write blog posts, and manage their content.
 
 ## Features
 
 - **User authentication**: Users can sign up, log in, and log out.
 - **CRUD operations for blog posts**: Create, read, update, and delete operations for blog posts.
-- **Commenting system**: Users can leave comments on blog posts.
 - **Responsive design**: The website is optimized for desktop and mobile devices.
 - **Admin panel**: Admin users can manage blog posts, comments, and user accounts.
 
