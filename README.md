@@ -21,7 +21,7 @@ This is a simple blog website built using Django, a Python web framework. The we
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/django-blog.git
+   git clone https://github.com/Jinesh-Jain1507/blog.git
 
 2. **Navigate to the project directory**:
    ```bash
