@@ -2,6 +2,10 @@
 
 This is a simple blog website built using Django, a Python web framework. The website allows users to create accounts, write blog posts, and manage their content.
 
+## Implementation Video
+
+[![Watch Again](https://img.youtube.com/vi/0VNlHU5WGkg/0.jpg)](https://www.youtube.com/watch?v=0VNlHU5WGkg)
+
 ## Features
 
 - **User authentication**: Users can sign up, log in, and log out.
